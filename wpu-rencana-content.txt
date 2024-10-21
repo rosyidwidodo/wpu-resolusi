@@ -3,7 +3,9 @@ Rencana Content WPU
 - Java Script
   *ES6
   *Framework Javascript
-- Fundamental Data Dasar
+   ^ Angular
+   ^ React
 - PHP Framework
+  * Laravel
 - Interview
 - Vlog
