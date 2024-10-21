@@ -5,8 +5,9 @@ Rencana Content WPU
   *Framework Javascript
    - Vue
    - React
-- Fundamental Data Dasar
+- Struktur Data Dasar
 - PHP Framework
+  * Laravel
 - Interview
 - Vlogs
 - Pyton
